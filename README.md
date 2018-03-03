@@ -83,4 +83,4 @@ Notifying user 10 that their job has been completed
 
 And that's it. 
 
-Note: this isn't production code. Inefficiencies exist and you should look into doing proper validation, not be lazy with the queries, set a realistic polling interval and externalise configs. 
+Note: this isn't production code. Inefficiencies exist and you should look into doing proper validation, exception handling, not be lazy with the queries, set a realistic polling interval and externalise configs. 
